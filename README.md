@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/81j0yet55ub4rb9m?svg=true)](https://ci.appveyor.com/project/AnastasiyaSergeichik/json-shema)
